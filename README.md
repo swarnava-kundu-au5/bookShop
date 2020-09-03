@@ -22,7 +22,4 @@ handle File Upload
 use LocalStorage (CRUD) to Minimize Requests to Backend
 Store Sold Products Record into the Database for Further Processing User Profile and Update Ability
 implement Order Management System by Admin
-Deploy your app to Digital Ocean's Cloud Servers
-add a Custom Domain name to your app
-use Cloudflare's CDN to serve your app (for speed)
-use Cloudflare's free SSL to secure your app
+
